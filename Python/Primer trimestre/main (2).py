@@ -1,0 +1,5 @@
+print('holamundo') 
+print('Mi nombre es:Diego')
+print('9D')
+print('comida favorita:Sushi')
+print('le comparto la actividad , jejeje no se que poner')
